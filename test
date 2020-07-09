@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>ほうむくん</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <div class="header">
+      <div class="header-logo">ほうむくんの部屋</div>
+      <div class="header-list">
+        <ul>
+          <li>ほうむくんとは</li>
+          <li>友達一覧</li>
+          <li>相談窓口</li>
+        </ul>
+      </div>
+      <h1 class="title">ようこそほうむくん</h1>
+
+    
+    </div>
+    <div class="main">
+
+      <p>ほうむくんのホームページを作成中です</p>
+<!--改行したい-->
+    <a href="https://note.com/toshi_0221/n/ndfd74710a354">ほうむくんnote</a>
+    <img src="https://assets.st-note.com/production/uploads/images/28674410/rectangle_large_type_2_5bf739f3f3ece2d7ca77515b798a2510.jpg?fit=bounds&quality=60&width=1280">
+    </div>
+    <h2>友達一覧</h2>
+  <div class="footer">
+    <ul>
+    <li class="selected">ほうむちゃん</li>
+    <li>そうむくん</li>
+    <li>そうこちゃん</li>
+    </ul>
+  </div>
+  </body>
+</html>
