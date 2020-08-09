@@ -124,6 +124,15 @@ header {
   font-weight: normal;
 }
 
+/* テスト用 */
+.friend
+img{
+   max-width: 200px;
+   height: auto;
+}
+/* テスト用おわり */
+
+
 .lesson {
   float: left;
   width: 25%;
